@@ -1,0 +1,30 @@
+
+
+
+
+* {box-sizing:border-box}
+
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#header {
+    padding: 0;
+    margin: 0;
+    border: 1px solid orange;
+}
+
+
+.section1 {
+    margin: auto;
+    padding: auto;
+    border: 1px solid red;
+}
+
+.img4ers {
+    margin: 0;
+    padding: 0;
+    
+}
