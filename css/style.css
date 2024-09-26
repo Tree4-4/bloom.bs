@@ -6,6 +6,7 @@
 
 
 body {
+    font-family: sans-serif;
     padding: 0;
     margin: 0;
 }
@@ -17,14 +18,38 @@ body {
 }
 
 
+#container1 {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 120, 141);
+}
+
+
+#main2 {
+    border: 1px solid black;
+    height: 20%;
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+#text3More{
+    float: right;
+    margin: 0;
+    padding: 0;
+    border: 1px solid blue ;
+}
+
+
+
 .section1 {
     margin: auto;
     padding: auto;
     border: 1px solid red;
 }
 
-.img4ers {
-    margin: 0;
-    padding: 0;
-    
-}
+
+
+
+
+
